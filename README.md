@@ -1,2 +1,3 @@
 # hello-world
-short description
+
+This is the start of something new.
